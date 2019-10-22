@@ -5,11 +5,11 @@ body {
   text-align: center;
 }
 
-header,
-figure,
-#featured-property p {
-  text-align: center;
-}
+/*header,*/
+/*figure,*/
+/*#featured-property p {*/
+/*  text-align: center;*/
+/*}*/
 
 nav a {
   padding-left: 10px;
